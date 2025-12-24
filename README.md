@@ -1,8 +1,6 @@
 # Person-Tracking
 Real-time person detection on YouTube videos using YOLO and OpenCV, with FPS display.
 
---
-
 ## Project Overview
 
 This project uses a YOLO (Ultralytics) object detection model to identify people in YouTube videos in real time, displaying bounding boxes with confidence scores. An FPS (frames per second) counter is included to demonstrate how efficiently the model processes video frames.
